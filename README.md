@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanda03&label=Profile%20views&color=0e75b6&style=flat" alt="imanda03" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **asis03ktm@gmail.com**
 
