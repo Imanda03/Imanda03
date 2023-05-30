@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **asis03ktm@gmail.com**
 
-- ⚡ Fun fact **That i don't know**
+- ⚡ Fun fact **That i don't know anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
