@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently Studing on **4th year**
 
-- 🌱 I’m currently learning **Angular, dotNet, Sql,etc**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react, MERN, Angular**
+- 💬 Ask me about **React, React Native, MERN, Angular**
 
 - 📫 How to reach me **asis03ktm@gmail.com**
 
