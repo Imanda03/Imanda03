@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanda03&label=Profile%20views&color=0e75b6&style=flat" alt="imanda03" /> </p>
 
+- 🔭 I’m currently Studing on **4th year**
+
+- 🌱 I’m currently learning **React Native**
+
 - 💬 Ask me about **React, React Native, MERN, Angular**
 
 - 📫 How to reach me **asis03ktm@gmail.com**
